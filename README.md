@@ -7,7 +7,7 @@
 - <b>Nyamurera Foundation Web Project</b>
   - [Html & Css,JavaScript](https://github.com/Bamusi/Nyamurera-Foundation/blob/main/README.md))
 - <b>TravellBuddy Web Project</b>
-  - [Html & Css,JavaScript](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Html & Css,JavaScript](https://github.com/Bamusi/TravellBuddy-Web-Project)
 
 <h2>👨‍💻 Mobile App Development Projects:</h2>
 
