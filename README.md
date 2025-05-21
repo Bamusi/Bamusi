@@ -5,7 +5,7 @@
 - <b>Tamarind Lodges Web Project</b>
   - [Html & Css,JavaScript, PhP ](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Nyamurera Foundation Web Project</b>
-  - [Html & Css,JavaScript](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Html & Css,JavaScript](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>TravellBuddy Web Project</b>
   - [Html & Css,JavaScript](https://github.com/joshmadakor1/Sentinel-Lab)
 
