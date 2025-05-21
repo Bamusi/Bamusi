@@ -10,6 +10,7 @@
   - [Html & Css,JavaScript](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2>👨‍💻 Mobile App Development Projects:</h2>
+
 - <b>TravellBuddy Mobile App Project</b>
   - [React-native js Frontend, MongoDB with Node js Backend](https://github.com/joshmadakor1/Sentinel-Lab)
 
