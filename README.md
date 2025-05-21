@@ -3,7 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Tamarind Lodges Web Project</b>
-  - [Html & Css,JavaScript, PhP ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Html & Css,JavaScript, PhP ](https://github.com/Bamusi/Tamarind-Web-Project/blob/main/README.md))
 - <b>Nyamurera Foundation Web Project</b>
   - [Html & Css,JavaScript](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>TravellBuddy Web Project</b>
