@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Mobile App Development Projects:</h2>
 - <b>TravellBuddy Mobile App Project</b>
-- [React-native js Frontend, MongoDB with Node js Backend](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [React-native js Frontend, MongoDB with Node js Backend](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="JosephBamusi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
